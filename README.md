@@ -124,7 +124,7 @@ console.log(`Server running on port ${port}`)
 });
  
  
- # step 3 MODELS
+  MODELS
 Now comes the interesting part, since the app is going to make use of Mongodb which is a NoSQL database, we need to create a model.
 
 A model is at the heart of JavaScript based applications, and it is what makes it interactive.
